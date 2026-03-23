@@ -9,7 +9,7 @@ const projects = [
     desc: "Sitio web profesional y responsive para distribuidora de frutos secos y productos naturales. Incluye catálogo de productos, información de contacto y diseño moderno que refleja la calidad de sus productos.",
     year: "2026",
     color: "#00ffc8",
-    img: "/src/assets/imagen.jpg",
+    img: "assets/imagen.jpg",
   },
   {
     id: "02",
@@ -18,7 +18,7 @@ const projects = [
     desc: "Página web completamente responsive para Brian Perez, personal trainer especializado en transformaciones físicas. Diseño motivacional con secciones de servicios, testimonios y call-to-action claros.",
     year: "2024",
     color: "#ff6ef7",
-    img: "/src/assets/powerup.jpg",
+    img: "assets/powerup.jpg",
   },
 ];
 
